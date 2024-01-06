@@ -6,14 +6,11 @@ i'm a student in 1337 coding school, 42 The Network
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hbettal" alt="hbettal's 42 stats" /></a>
 
-* I love code!
 * 🌍  I'm based in youssoufia city, Morroco
 * 🖥️  See my portfolio at [https://badge.mediaplus.ma/binary/hbettal](https://profile.intra.42.fr/users/hbettal)
 * ✉️  You can contact me at (https://discordapp.com/users/611923255413964816)
-* 🚀  I'm currently working on [learning programming languages](https://profile.intra.42.fr/users/hbettal)
+* 🚀  I'm currently working on [learning programming languages]
 * 🧠  I'm learning c programming language and other languages!
-* 🤝  I'm open to collaborating on c programming language, or python!
-* ⚡  i'm secretly Superman... but don't tell anyone!
 
 <a href="https://www.github.com/DIO00000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DIO00000?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
