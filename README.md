@@ -6,7 +6,7 @@ i'm a student in 1337 coding school, 42 The Network
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 * I love code!
-* 🌍  I'm based in Ouarzazate city, Morroco
+* 🌍  I'm based in youssoufia city, Morroco
 * 🖥️  See my portfolio at [https://badge.mediaplus.ma/binary/hbettal](https://profile.intra.42.fr/users/hbettal)
 * ✉️  You can contact me at [hamzabattal17@gmail.com]
 * 🚀  I'm currently working on [learning programming languages](https://profile.intra.42.fr/users/hbettal)
