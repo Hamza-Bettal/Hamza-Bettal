@@ -9,7 +9,7 @@ i'm a student in 1337 coding school, 42 The Network
 * I love code!
 * 🌍  I'm based in youssoufia city, Morroco
 * 🖥️  See my portfolio at [https://badge.mediaplus.ma/binary/hbettal](https://profile.intra.42.fr/users/hbettal)
-* ✉️  You can contact me at [hamzabattal17@gmail.com]
+* ✉️  You can contact me at (https://discordapp.com/users/611923255413964816)
 * 🚀  I'm currently working on [learning programming languages](https://profile.intra.42.fr/users/hbettal)
 * 🧠  I'm learning c programming language and other languages!
 * 🤝  I'm open to collaborating on c programming language, or python!
