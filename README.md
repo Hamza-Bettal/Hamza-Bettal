@@ -13,8 +13,8 @@ i'm a student in 1337 coding school, 42 The Network
 * 🧠  I'm learning c programming language and other languages!
 
 <a href="https://www.github.com/DIO00000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DIO00000?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/github/followers/DIO00000?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Hamza Bettal" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Hamza Bettal?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 <h3 align="left">Support:</h3>
