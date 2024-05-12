@@ -17,9 +17,6 @@ src="https://img.shields.io/github/followers/Hamza-Bettal?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/Hamza Bettal?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
-<h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/Hnt_4](https://www.buymeacoffee.com/battalhamzz)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hnt_4" /></a></p><br><br>
-
 ### Skills
 
 
