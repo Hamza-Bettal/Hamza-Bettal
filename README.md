@@ -36,9 +36,9 @@ src="https://img.shields.io/twitter/follow/Hamza Bettal?logo=twitter&style=for-t
 
 <a href="http://www.github.com/Hamza-Bettal"><img src="https://github-readme-stats.vercel.app/api?username=Hamza-Bettal&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Hamza-Bettal's GitHub stats" /></a>
 
-<a href="http://www.github.com/DIO00000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DIO00000&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Hamza-Bettal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Bettal&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/DIO00000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIO00000&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Hamza-Bettal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Bettal&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
